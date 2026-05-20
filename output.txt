@@ -1,0 +1,5 @@
+Nummber = 20
+Character = J
+PI = 3.1416
+ASCII = 97
+ASCII = 97
